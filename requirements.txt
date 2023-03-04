@@ -26,3 +26,5 @@ matplotlib
 folium
 matplotlib
 mapclassify
+ipython-sql
+jupyterlab_sql
